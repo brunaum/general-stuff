@@ -1,4 +1,4 @@
 general-stuff
 =============
 
-General stuff.
+General stuff for general purposes.
